@@ -1,0 +1,6 @@
+INSERT INTO staff (staffNo, fName, lName, position, sex, DOB, salary, branchNo) VALUES ('SL21','john','White','Manager','M','1-Oct-45','30000','B005');
+INSERT INTO staff (staffNo, fName, lName, position, sex, DOB, salary, branchNo) VALUES ('SG37','Ann','Beech','Assistant','F','10-Nov-60','12000','B003');
+INSERT INTO staff (staffNo, fName, lName, position, sex, DOB, salary, branchNo) VALUES ('SG14','David','Ford','Supervisor','M','24-March-58','18000','B003');
+INSERT INTO staff (staffNo, fName, lName, position, sex, DOB, salary, branchNo) VALUES ('SA9','Mary','Howe','Assistant','F','19-Feb-70','9000','B007');
+INSERT INTO staff (staffNo, fName, lName, position, sex, DOB, salary, branchNo) VALUES ('SG5','Susan','Brand','Manager','F','3-June-40','24000','B003');
+INSERT INTO staff (staffNo, fName, lName, position, sex, DOB, salary, branchNo) VALUES ('SL41','Julie','Lee','Assistant','F','13-June-65','9000','B006');
